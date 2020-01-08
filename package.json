@@ -9,8 +9,8 @@
     "start": "node index.js",
 
     "modules": "node --experimental-modules modules.js",
-    "secret" : "node --experimental-modules secret/index.js",
-    "util" : "node --experimental-modules secret/utils/index.js"
+    "secret" : "node --experimental-modules index.js",
+    "util" : "node --experimental-modules utils/index.js"
   },
   "author": "",
   "license": "ISC",
